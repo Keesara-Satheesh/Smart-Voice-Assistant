@@ -33,8 +33,8 @@ The **Smart Voice Assistant** is a mobile application designed for professionals
    ```
 
 ## Technologies Used
-- **Programming Languages:**  JavaScript
-- **Frameworks & Libraries:** React Js, Flask, TensorFlow, NLP Libraries
+- **Programming Languages:**  JavaScript, React Js, CSS
+- **Frameworks & Libraries:** @google/generative-ai, React,React Icons...
 - **Cloud Services:** Google Cloud
 
 ## Usage
